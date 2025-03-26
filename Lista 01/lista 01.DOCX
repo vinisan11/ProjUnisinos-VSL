@@ -1,0 +1,56 @@
+Gabarito/Respostas Estruturadas
+
+1. Implementação do "Olá Mundo!" em Três Linguagens
+Linguagens Utilizadas:
+    • Linguagem 1: Python
+    • Linguagem 2: JavaScript
+    • Linguagem 3: C
+Comando de Saída de Dados:
+    • Linguagem 1: “print(“”)”
+    • Linguagem 2: “console.log(””);”
+    • Linguagem 3: “printf(“”);”
+
+2. Identificação das Partes do Algoritmo
+Problema: Cálculo da Idade com Base no Ano de Nascimento
+a) Entrada de Dados:
+    • Ano de nascimento EX: 2004
+b) Processamento Realizado:
+    • Calcular: (Ano Atual - 2004 )
+c) Saída de Dados:
+    • Idade Atual EX: 20
+
+3. Análise de Problemas e Identificação das Partes do Algoritmo
+a) Cálculo do Salário Final de um Funcionário
+    • Entrada de Dados: Salario Base e Bônus 
+
+    • Saída de Dados: Salario + Bônus
+    • Possíveis Variáveis: salario, bonus
+b) Cálculo do Valor a Ser Pago em um Posto de Gasolina
+    • Entrada de Dados: Quantidade de Litros e Preço por Litro 
+      
+    • Saída de Dados: Litros * Preço = Preço de Pagamento
+    • Possíveis Variáveis: litros, preco
+c) Registro de Informações Básicas de Pacientes
+    • Entrada de Dados: Sexo (M ou F), Dia, mês e Ano, Altura e peso
+    • Saída de Dados: Dados de um Paciente
+    • Possíveis Variáveis: sexo, dia_de_N, mes_de_N, ano_de_N, altura, peso
+
+4. Expressões Matemáticas em C
+a) Cálculo do Preço Final de um Produto
+    • Expressão Matemática: valor_imp = valor + (x * 0.10  ) -5.00
+    • Variáveis Utilizadas: valor , valor com imposto e disconto
+b) Cálculo da Média Ponderada
+    • Expressão Matemática: md_pd =  (?1 × ?1 + ?2 × ?2 + ?3 × ?3) / ?1 + ?2 + ?3 
+    • Variáveis Utilizadas: média ponderada , e varives das notas dos alunos, numero de notas e as notas em sí 
+c) Cálculo da Distância Total Percorrida por um Ciclista
+    • Expressão Matemática: distancia = t1+t2 * v1+v2
+    • Variáveis Utilizadas: duas do tempo e duas velocidade
+d) Cálculo de um Polinômio Quadrático
+    • Expressão Matemática: y = a*x**2 + b*x +c
+    • Variáveis Utilizadas:
+    •  ? x (float) ? valor fornecido pelo usuário 
+    • ? a, b, c (float) ? coeficientes do polinômio 
+    • ? y (float) ? resultado do cálculo 
+
+
+
